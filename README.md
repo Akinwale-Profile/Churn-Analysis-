@@ -1,6 +1,9 @@
 
 ## Customer Churn Analysis and Retention Strategy for Thundra
 
+![Screenshot (181)](https://github.com/user-attachments/assets/bf668ef5-9784-4541-8876-0e38ec2ecf6a)
+
+
 ## Problem Statement
 Customer churn poses a significant challenge to businesses, directly impacting revenue and growth. Identifying the factors contributing to customer attrition and predicting potential churners are critical for implementing targeted retention strategies. However, the absence of a robust analytical framework often leads to inefficient decision-making and poor customer relationship management.
 
@@ -26,6 +29,8 @@ Predictive Modeling in Python:
 Implemented a Random Forest classifier to predict potential churners based on historical data.
 Conducted feature importance analysis to identify the most influential factors driving churn.
 Developed a pipeline for making predictions on new customer data, enabling proactive retention strategies.
+
+![Screenshot (182)](https://github.com/user-attachments/assets/d6967c77-d505-4f65-bed1-f46ee6d56559)
 
 ## Business Impact:
 
