@@ -1,7 +1,8 @@
 
 ## Customer Churn Analysis and Retention Strategy for Thundra
 
-![Screenshot (181)](https://github.com/user-attachments/assets/bf668ef5-9784-4541-8876-0e38ec2ecf6a)
+![Screenshot (185)](https://github.com/user-attachments/assets/def07ffe-a8e6-40b0-bb39-af0d22b9452d)
+
 
 
 ## Problem Statement
@@ -30,7 +31,8 @@ Implemented a Random Forest classifier to predict potential churners based on hi
 Conducted feature importance analysis to identify the most influential factors driving churn.
 Developed a pipeline for making predictions on new customer data, enabling proactive retention strategies.
 
-![Screenshot (182)](https://github.com/user-attachments/assets/d6967c77-d505-4f65-bed1-f46ee6d56559)
+![Screenshot (184)](https://github.com/user-attachments/assets/7dcfc4f6-8443-40f8-9c52-1e3216367fae)
+
 
 ## Business Impact:
 
